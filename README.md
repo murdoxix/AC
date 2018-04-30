@@ -13,9 +13,9 @@ que una celda nace si tiene 1 o 2 celdas vecinas vivas y sobrevive si tiene exac
 La proxima linea indica el estado inicial de las celdas y sera una sucesion de <numero><tag>, siendo los posibles valores de <tag>:b,o o $.
 b significa celda muerta, o celda viva y $ fin de linea. <numero> no es necesario si es 1. No es necesario especificar las celdas muertas hasta fin de linea.
 
-La carpeta patrones contiene mas de mil automatas para probar el programa. Fueron descargados de [link](http://www.conwaylife.com/).
+La carpeta patrones contiene mas de mil automatas para probar el programa. Fueron descargados de [ConwayLife](http://www.conwaylife.com/).
 
-Una mejora del programa seria poder graficar el automata sobre una grilla mayor a la que viene definida.
+Una mejora del programa seria poder graficar el automata sobre una grilla de tamaño mayor a la que viene definida.
 
 Para correr el programa basta con:
 * Compilar con: g++ automata-celular.cpp -o automata-celular
