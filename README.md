@@ -1,6 +1,9 @@
 # Graficador de automata celular
 
-Es una implementacion de un automata celular. Un ejemplo de estos es el 'Juego de la Vida', pero existen de muchos otros.
+Es una implementacion de automata celular que utiliza [gnuplot](http://gnuplot.info/) (es necesario tenerlo instalado) para graficar.
+
+Un ejemplo de estos es el 'Juego de la Vida', pero existen de muchos otros.
+
 
 Un automata celular esta dado por una cuadricula con celdas que estan prendidas o apagadas, en cada paso cada una de ellas nace, muere o se queda en su estado.
 
