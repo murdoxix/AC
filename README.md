@@ -1,4 +1,4 @@
-#Graficador de automata celular
+# Graficador de automata celular
 
 Es una implementacion de un automata celular. Un ejemplo de estos es el 'Juego de la Vida', pero existen de muchos otros.
 
